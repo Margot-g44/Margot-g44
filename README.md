@@ -64,5 +64,3 @@ Apprenante Développeuse FullStack chez Ada Tech School | En recherche d'alterna
 ## 🔗 Liens
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Margot-g44)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/margot-gouriou)
-- ⚡ Fun fact: ...
--->
