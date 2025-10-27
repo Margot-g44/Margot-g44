@@ -34,7 +34,6 @@ Apprenante Développeuse FullStack chez Ada Tech School | En recherche d'alterna
 <li>Adaptabilité</li>
 <li>Curiosité</li>
 <li>Esprit d’analyse</li>
-<li>Organisation</li>
 <li>Autonomie</li>
 </ul>
 </td>
