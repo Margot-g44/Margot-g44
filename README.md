@@ -28,7 +28,6 @@ Apprenante Développeuse FullStack chez Ada Tech School | En recherche d'alterna
 <td>
 <h3>🤝 Compétences</h3>
 <ul>
-<li>Communication</li>
 <li>Résolution de problèmes</li>
 <li>Travail d’équipe</li>
 <li>Adaptabilité</li>
