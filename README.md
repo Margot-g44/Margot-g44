@@ -1,6 +1,6 @@
 # Margot ✨
 
-Apprenante Développeuse FullStack chez Ada Tech School | En recherche d'alternance à compter de Février 2026.
+Développeuse FullStack chez Ada Tech School | En recherche d'alternance à compter de Septembre 2026.
 
 ## 🛠️🤝 Compétences 
 <table><tr>
