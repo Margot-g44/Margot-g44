@@ -1,6 +1,6 @@
 # Margot ✨
 
-Développeuse FullStack chez Ada Tech School | En recherche d'alternance à compter de Septembre 2026.
+Développeuse Java / Python chez Crédit Agricole Technologies et Services 
 
 ## 🛠️🤝 Compétences 
 <table><tr>
